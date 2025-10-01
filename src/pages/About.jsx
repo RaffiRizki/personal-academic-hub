@@ -9,7 +9,7 @@ export default function About() {
           <div className="md:col-span-1">
             <div className="aspect-[3/4] w-full rounded-2xl bg-slate-200 overflow-hidden ring-1 ring-slate-100">
               <img
-                src="/profile.jpg"
+                src="public\profile.jpg"
                 alt="Foto Profil"
                 className="w-full h-full object-cover"
               />
